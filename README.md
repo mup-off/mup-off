@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Mup%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Fulgence%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -22,28 +22,11 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning **[Something New]**
-- 👯 Looking to collaborate on **[Type of Project]**
-- 💬 Ask me about **[Your Expertise]**
-- ⚡ Fun fact: **[Something Fun About You]**
-
----
-
-### 🛠️ Tech Stack
+### 🧰 Tools and Frameworks
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,py,go,react,nextjs,nodejs,express,postgres,mongodb,docker,aws,git,linux,figma,vscode" />
 
 </div>
 
@@ -66,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mup-off&theme=onedark&no-frame=true&no-bg=false&margin-w=8&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mup-off&theme=onedark&row=1&column=6"/>
 
 </div>
 
@@ -76,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mup-off&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mup-off&theme=react-dark"/>
 
 </div>
 
