@@ -48,7 +48,7 @@
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mup-off&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://githubusercontent.com" alt="Contribution Graph" />
 </p>
 
 ---
