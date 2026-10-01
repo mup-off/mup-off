@@ -48,7 +48,10 @@
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Contribution Graph" />
+  <img
+    src="https://raw.githubusercontent.com/mup-off/mup-off/output/activity-graph.svg?v=5"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
