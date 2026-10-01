@@ -41,7 +41,7 @@
 <p align="center">
   <a href="https://github.com/mup-off">
     <img
-      src="https://github-profile-trophy.cn/api?username=mup-off&theme=onedark&column=6&v=1"
+      src="https://github-profile-trophy.vercel.app/?username=mup-off&theme=onedark&column=6&v=1"
       alt="GitHub Trophies"
     />
   </a>
