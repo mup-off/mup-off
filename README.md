@@ -39,10 +39,11 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mup-off&theme=onedark&column=6" alt="GitHub Trophies" />
+  <a href="https://github.com">
+    <img src="https://github-profile-trophy.cn" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 ---
 
