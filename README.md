@@ -37,13 +37,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/api?username=mup-off)
-
-
-
----
-
 ### 📈 Contribution Graph
 <p align="center">
   <img
