@@ -38,7 +38,7 @@
 ---
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://vercel.app/api?username=mup-off)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/api?username=mup-off)
 
 
 
