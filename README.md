@@ -38,11 +38,8 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="GitHub Trophies" />
-  </a>
-</p>
+![GitHub Trophies](https://vercel.app)
+
 
 
 ---
